@@ -1,0 +1,6 @@
+To get the color on Title bar change it from the setting of the window.
+
+Here I am going to made a QRCODE for the Details of Student of UIt Bhardhamaan,West Bengal.
+
+It is generally  a UI using Tkinter which gives the entered details of Student and
+when we close the UI it will save the image in folder Student_QR in png format.
